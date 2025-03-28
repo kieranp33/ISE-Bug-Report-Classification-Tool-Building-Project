@@ -36,5 +36,5 @@
   
 - **tensorflow_proposed_solution_metric_scores.csv** : the raw results of the metrics score including the mean values, statistical tests scores and standard deviations      scores that were obtained when running the proposed solution code using the tensorflow.csv dataset
   
-**Please ensure that all these files are in the same directory when executing either the baseline_solution.py code or proposed_solution.py code**
+**Please ensure that all these files are in the same directory when executing either the baseline_solution.py code or proposed_solution_svm.py code**
 
